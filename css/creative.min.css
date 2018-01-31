@@ -82,7 +82,7 @@ background:0 0
     color: #212529
 }
 #mainNav .navbar-nav>li.nav-item>a.nav-link:focus:hover, #mainNav .navbar-nav>li.nav-item>a.nav-link:hover {
-    color: #CB9A0C
+    color: #FFFFFF;
 }
 #mainNav .navbar-nav>li.nav-item>a.nav-link.active, #mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active {
     color: #CB9A0C!important;
@@ -114,7 +114,7 @@ background:0 0
 }
 #mainNav.navbar-shrink {
     border-bottom: 1px solid rgba(33,37,41,.1);
-    background-color: #fff
+    background-color: #212529
 }
 #mainNav.navbar-shrink .navbar-brand {
     color: #CB9A0C
@@ -123,7 +123,7 @@ background:0 0
     color: #CB9A0C
 }
 #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link, #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus {
-    color: #212529
+    color: #a2a8ad 	 	
 }
 #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus:hover, #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:hover {
     color: #CB9A0C
@@ -132,7 +132,7 @@ background:0 0
 header.masthead {
     padding-top: 10rem;
     padding-bottom: calc(10rem - 56px);
-    background-image: url(https://i.pinimg.com/originals/3b/ed/91/3bed91084dd3c1ef58bb55942315bd4c.jpg);
+    background-image: url(http://trunkweed.com/uploads/posts/images/32189-dark-castle.jpg);
     background-position: center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -246,6 +246,12 @@ header.masthead h1 {
 .btn-primary {
     background-color: #CB9A0C;
     border-color: #CB9A0C
+}
+.btn-inicio{
+	background-color: transparent;
+	border-color: transparent;
+	color:#ffffff;
+
 }
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
     color: #fff;
