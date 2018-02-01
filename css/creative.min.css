@@ -251,12 +251,19 @@ header.masthead h1 {
 	background-color: transparent;
 	border-color: transparent;
 	color:#ffffff;
-
+}
+.btn-sedes{
+	background-color: white ;
+	color: #212529;
+	text-emphasis-color: #212529;
+}
+.btn-dinamica{
+	background-color: #212529;
+	color:white;
+	
 }
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
     color: #fff;
-    background-color: #CB9A0C!important
+    background-color: #CB9A0C!important;
 }
-.btn-primary:active, .btn-primary:focus {
-    box-shadow: 0 0 0 .2rem rgba(240,95,64,.5)!important
-}
+
