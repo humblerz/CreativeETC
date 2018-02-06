@@ -132,7 +132,7 @@ background:0 0
 header.masthead {
     padding-top: 10rem;
     padding-bottom: calc(10rem - 56px);
-    background-image: url(http://trunkweed.com/uploads/posts/images/32189-dark-castle.jpg);
+    background-image: url(../img/castle.jpg);
     background-position: center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
